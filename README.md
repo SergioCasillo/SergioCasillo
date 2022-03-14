@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergioCasillo.
-- 👀 I’m interested in video gmaes. 
+- 👀 I’m interested in video gmaes and programming.
 - 🌱 I’m currently learning software construction and programming logic in java and SQL. 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me: sergiocasillo10@gmail.com
